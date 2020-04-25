@@ -58,7 +58,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-002.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271056-1cb72f00-86f8-11ea-8df1-7d0f7db78d07.jpg" />
 
 <br>
 
@@ -70,7 +70,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-003.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271059-1cb72f00-86f8-11ea-8555-b50c496f2f71.jpg" />
 
 <br>
 
@@ -82,7 +82,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-004.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271063-1d4fc580-86f8-11ea-834c-1eafd2497875.jpg" />
 
 <br>
 
@@ -94,7 +94,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-005.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271066-1de85c00-86f8-11ea-94c5-2bc7db4ce690.jpg" />
 
 <br>
 
@@ -106,7 +106,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-006.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271069-1e80f280-86f8-11ea-8f66-37d31fa3edab.jpg" />
 
 <br>
 
@@ -118,7 +118,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-007.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271073-1e80f280-86f8-11ea-9acc-b43190d2fb86.jpg" />
 
 <br>
 
@@ -130,7 +130,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-008.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271076-1f198900-86f8-11ea-98ac-a0191d0a2311.jpg" />
 
 <br>
 
@@ -142,7 +142,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-009.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271079-1fb21f80-86f8-11ea-985e-c9a2ee0c4771.jpg" />
 
 <br>
 
@@ -154,7 +154,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-010.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271082-204ab600-86f8-11ea-83cc-ae02d1c66d13.jpg" />
 
 <br>
 
@@ -166,7 +166,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-011.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271083-204ab600-86f8-11ea-8371-f31324a37f39.jpg" />
 
 <br>
 
