@@ -46,7 +46,7 @@
 
 <br>
 
-<img src="C:\Git\VmPJ\이미지화\K-001.jpg" style="zoom:80%;" />
+<img src="https://user-images.githubusercontent.com/61584142/80271045-1a54d500-86f8-11ea-9080-f707d83d577f.jpg" />
 
 <br>
 
